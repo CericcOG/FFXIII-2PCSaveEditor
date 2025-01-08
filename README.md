@@ -12,8 +12,9 @@ This is an alpha version. I've tested with a few different saves and it seems to
 </p>
 
 # How to Use
-You will need to download the FFXIIIPCSaveDecryptor before you'll be able to edit your save file. I won't provide the link here since I didn't create it, but you should be able to find it by searching or joining the Nova Crystallis Discord community.
-Once the save is decrypted, open it with the save editor and edit your values. Each tab features a save button that will save the values in that tab only.
+You will need to download the FFXIIIPCSaveDecryptor before you'll be able to edit your save file. Join the Nova Crystallis Discord community using the following link, then serch "FFXIIIPCSaveDecryptor".
+Nova Crystallis Discord Invite: https://discord.gg/dGRCdXEH
+Once download, drag your save on top of the .exe and it'll create a decrypted copy. Once the save is decrypted, open it with the save editor and edit your values. Each tab features a save button that will save the values in that tab only. After you've saved your changes, you'll need to drag the decrypted save back on top of the FFXIIIPCSaveDecryptor to re-encrypt it. Then remove "_decrypted_encrypted" from the filename and the save should be ready to go.
 # Questions?
 1. I'm sure it will be asked, but I do plan to add the ability to add items/edit quantity of items you already have, as well as edit capacity. That will come in a later update.
 3. At the moment, I have no plans to implement a monster editor. It seems like that may be over my ability level. However, that could change as I continue exploring the save file.
