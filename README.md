@@ -6,9 +6,11 @@
 This is an alpha version of a save editor for FFXIII-2. The only values that can be edited with this version are CP, HP, STR, MP for each character as well as Gil.
 $${\color{red}!! \space WARNING \space !! }$$
 This is an alpha version. I've tested with a few different saves and it seems to be working. However, this may not work for everyone. That's why I'm releasing it in this state; to get more testing. Make sure you backup your save file before attempting to edit. I'm not responsible for corrupted saves.
+
 <p align="center" width="100%">
     <img alt="Picture of Save Editor" src="https://github.com/user-attachments/assets/747c1902-6290-4b2d-8502-975d35634f5d" width="50% height="50%">
 </p>
+
 # How to Use
 You will need to download the FFXIIIPCSaveDecryptor before you'll be able to edit your save file. I won't provide the link here since I didn't create it, but you should be able to find it by searching or joining the Nova Crystallis Discord community.
 Once the save is decrypted, open it with the save editor and edit your values. Each tab features a save button that will save the values in that tab only.
