@@ -10,7 +10,7 @@ $${\color{red}!! \space WARNING \space !! }$$
 This is an alpha version. I've tested with a few different saves and it seems to be working. However, this may not work for everyone. That's why I'm releasing it in this state; to get more testing. Make sure you backup your save file before attempting to edit. I'm not responsible for corrupted saves.
 
 <p align="center" width="100%">
-    <img alt="Picture of Save Editor" src="https://github.com/user-attachments/assets/747c1902-6290-4b2d-8502-975d35634f5d" width="50% height="50%">
+    <img alt="Picture of Save Editor" src="https://github.com/user-attachments/assets/c0f7b2a6-b356-43c2-ba96-6322b9f2db4d" width="50% height="50%">
 </p>
 
 # How to Use
